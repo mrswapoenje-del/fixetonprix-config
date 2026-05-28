@@ -6,6 +6,8 @@
   "prixBarreEuro": "43",
   "promoBadge": "Promo - 35%",
   "lienSelar": "https://selar.com/v0u01l3z99",
+  "flodeskApiKey": "VOTRE_CLE_API_FLODESK_ICI",
+  "brevoApiKey": "",
   "ctaText": "Oui, je veux fixer mes prix ›",
   "ctaFooter": "Je fixe mon prix maintenant →",
   "mentions": "Offre limitée   Paiement sécurisé   Accès immédiat"
